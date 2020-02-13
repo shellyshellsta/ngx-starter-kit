@@ -158,7 +158,7 @@
     "filepond-plugin-image-resize": "2.0.4",
     "filepond-plugin-image-transform": "3.7.1",
     "formidable": "1.2.1",
-    "immer": "5.1.0",
+    "immer": "5.3.6",
     "intersection-observer": "0.7.0",
     "keycloak-js": "8.0.2",
     "ngx-auto-unsubscribe": "3.0.1",
@@ -227,7 +227,7 @@
   },
   "resolutions": {
     "d3": "4.13.0",
-    "immer": "5.1.0",
+    "immer": "5.3.6",
     "@angular-devkit/architect": "0.900.2",
     "@angular-devkit/core": "9.0.2",
     "@angular-devkit/schematics": "9.0.2",
